@@ -1,0 +1,3 @@
+paddleocr==2.7.0.3
+paddleocr.egg==info
+Pillow==10.2.0
